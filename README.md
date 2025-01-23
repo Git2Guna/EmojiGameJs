@@ -1,0 +1,2 @@
+# EmojiGameJs
+Simple Interaction Game 🎮
